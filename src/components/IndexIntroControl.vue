@@ -36,7 +36,7 @@ const nip07exists = true;
     <p class="p-index-intro__text">などを起点に調べてる見ると面白いと思います。</p>
     <h2 class="p-index-intro__head"><span>このリレーについて</span></h2>
     <p class="p-index-intro__text">日本向けリレーとしてこのページの裏側にある
-      <code>wss://relay-jp.nostr.wirednet.jp</code>
+      <code>wss://relay.mymt.casa</code>
       を是非 Nostr クライアントに設定してお使いください。
     </p>
     <h2 class="p-index-intro__head">ライセンス、ソースコードなど</h2>
@@ -48,10 +48,6 @@ const nip07exists = true;
         emojis (©awayuki)</a> の絵文字素材や
       <a href="https://soundeffect-lab.info/" target="_blank" class="p-index-intro__text-link">効果音ラボ</a>
       の効果音素材を利用しています。
-    </p>
-    <p class="p-index-intro__text">なお、私が管理する Nostr リレーの利用規約は<br>
-      <a href="https://relay.nostr.wirednet.jp/index.html" class="p-index-intro__text-link"
-        target="_blank">relay.nostr.wirednet.jp</a><br>に掲示してあります。
     </p>
   </div>
 </template>
