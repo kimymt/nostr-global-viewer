@@ -12,6 +12,8 @@ Users can also view each event's content and a direct link to the event on nostx
 
 [srtrelay.c-stellar.net/](https://srtrelay.c-stellar.net/)
 
+[compile-error.net/](https://nozokimado.compile-error.net/)
+
 [view-relay.mymt.casa/](https://view-relay.mymt.casa/)
 
 ## Contributors
